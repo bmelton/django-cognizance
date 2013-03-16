@@ -25,6 +25,9 @@ class EntryVersion(models.Model):
     created         = models.DateTimeField(null=True, blank=True)
     start_date      = models.DateTimeField(null=True, blank=True)
 
+    def __unicode__(self):
+        return "%s - %s" % (self.version, self.title)
+
     def bump_version(self, uid):
         highest_version = EntryVersion.objects.filter(uid=uid).aggregate(Max('version'))['version__max']
         if highest_version == None:
