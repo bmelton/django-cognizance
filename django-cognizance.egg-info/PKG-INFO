@@ -2,7 +2,7 @@ Metadata-Version: 1.1
 Name: django-cognizance
 Version: 0.0a1
 Summary: Cognizance isn't that great yet.  Don't use it.
-Home-page: http://github.com/bmelton/django_cognizance/
+Home-page: http://github.com/bmelton/django-cognizance/
 Author: Barry Melton
 Author-email: barry.melton@gmail.com
 License: Creative Commons Non-Commercial, 3.0

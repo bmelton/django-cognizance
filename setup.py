@@ -102,7 +102,7 @@ VERSION = __import__("cognizance").__version__
 setup(
     name = "django-cognizance",
     version = VERSION,
-    url = 'http://github.com/bmelton/django_cognizance/',
+    url = 'http://github.com/bmelton/django-cognizance/',
     description = "Cognizance isn't that great yet.  Don't use it.",
     license = "Creative Commons Non-Commercial, 3.0",
     author = 'Barry Melton',
