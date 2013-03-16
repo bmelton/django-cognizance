@@ -1,0 +1,10 @@
+cognizance/__init__.py
+cognizance/admin.py
+cognizance/models.py
+cognizance/urls.py
+django_cognizance.egg-info/PKG-INFO
+django_cognizance.egg-info/SOURCES.txt
+django_cognizance.egg-info/dependency_links.txt
+django_cognizance.egg-info/not-zip-safe
+django_cognizance.egg-info/requires.txt
+django_cognizance.egg-info/top_level.txt
